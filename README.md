@@ -1,5 +1,5 @@
  ### Hello 👋
-My name is Canhui, I am a developer with Computer Science background.
+My name is Canhui, I am a developer with computer science background.
  
 - You can check out some of my personal projects on https://www.canhuihuang.com/works.html
 
